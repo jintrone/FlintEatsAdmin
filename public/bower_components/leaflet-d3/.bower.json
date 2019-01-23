@@ -1,0 +1,14 @@
+{
+  "name": "leaflet-d3",
+  "homepage": "https://github.com/Asymmetrik/leaflet-d3",
+  "version": "1.3.1",
+  "_release": "1.3.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.3.1",
+    "commit": "c88141a0aad0eb17d22e82495e67f9d475c87577"
+  },
+  "_source": "https://github.com/Asymmetrik/leaflet-d3.git",
+  "_target": "^1.2.1",
+  "_originalSource": "leaflet-d3"
+}

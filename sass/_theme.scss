@@ -1,0 +1,36 @@
+/* ADD/REMOVE/CHANGE THEMES HERE */
+
+
+// Modifying the default theme
+
+@include theme-maker("default", (
+  theme (
+    bg #0099CC
+  ),
+  header (
+    color #FFFFFF,
+    bg #0099CC,
+    logout (
+      bg #66CCFF,
+      hover-bg #0099CC
+    ),
+  ),
+  body (
+    color #89949B
+  ),
+  sidebar (
+    avatar (
+      bg #0099CC
+    ),
+    controls (
+      bg #0099CC,
+      btn (
+        color #1B6858,
+        border darken(#279982, 2%),
+        active-bg #0099CC,
+        active-color #56B596
+      )
+    )
+  )
+));
+

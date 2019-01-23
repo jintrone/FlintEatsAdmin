@@ -1,0 +1,15 @@
+{
+  "name": "sentio-js",
+  "homepage": "https://github.com/Asymmetrik/sentio",
+  "version": "3.0.2",
+  "_release": "3.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.0.2",
+    "commit": "dbc33ed9fa7b7c1b53cf0a591f137048315174d5"
+  },
+  "_source": "https://github.com/Asymmetrik/sentio.git",
+  "_target": "^3.0.2",
+  "_originalSource": "sentio-js",
+  "_direct": true
+}
